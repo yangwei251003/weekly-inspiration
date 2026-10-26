@@ -1,0 +1,7 @@
+interface:
+  display_name: "每周灵感与项目焕新"
+  short_description: "结合本地与云端项目，调研每周创意、记录个人偏好，并复查旧项目升级机会"
+  default_prompt: "用 $weekly-inspiration 给我本周项目灵感，结合可访问的本地与云端项目推荐新方向并复查旧项目，先给建议。"
+policy:
+  allow_implicit_invocation: true
+
